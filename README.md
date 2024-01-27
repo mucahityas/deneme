@@ -1,2 +1,4 @@
-# oyun geliştirme inönü üniversitesi proje ödevi
-# mucahit yassıkaya 02180201002
+# Oyun geliştirme inönü üniversitesi proje ödevi
+# Yasin
+# Nurullah
+# Mücahit yassıkaya 02180201002
